@@ -26,6 +26,19 @@ Why 8?
 
 This number is perfect. It is small, therefore, one can remember the 8 people in the circle.
 
+What we'll do?
+==============
+* Make a Website to publish the idea
+* Allow people to connect socially and invite their closest 8 people & register them
+* Allow people to search for nearest related member for a particular blood group/type
+* Make mobile apps where people will register their circle of 8 people.
+* They can search for closest donors during hours of need
+
+Problems with existing applications
+===================================
+Existing applications allow you to query for donors in a region. But it is not favorable for someone during emergency hours to contact donors out of the blue.
+Because, it is always easier to ask friends and relatives for blood donation than a stranger.
+
 Expecting inputs from the community.
 
 Regards
