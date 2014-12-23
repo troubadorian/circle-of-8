@@ -39,6 +39,16 @@ Problems with existing applications
 Existing applications allow you to query for donors in a region. But it is not favorable for someone during emergency hours to contact donors out of the blue.
 Because, it is always easier to ask friends and relatives for blood donation than a stranger.
 
+
+Why we need your help?
+======================
+* We need to spread the word around
+* Attract developer community's attention to help us / suggest us in building applications
+* Attract designer community's attention to improve the user experience of the app
+* Attract Users who can use it to save lives
+* Make the app popular to make it the One-stop during all emergencies
+* Attract donations for the project
+
 Expecting inputs from the community.
 
 Regards
