@@ -8,6 +8,7 @@ Mission:
 Saving lives during emergencies
 -------------------------------
 Shorterm Goal: Application for finding blood donors during emergency
+
 Future Plans:
 * Emergency Contact
 * Panic Button
