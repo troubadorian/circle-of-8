@@ -3,7 +3,16 @@ circle-of-8
 
 Circle-of-8 : A Non-profit project
 
-Mission: Saving lives during emergencies. Immediate blood donation
+Mission:
+========
+Saving lives during emergencies
+-------------------------------
+Shorterm Goal: Application for finding blood donors during emergency
+
+Future Plans:
+* Emergency Contact
+* Panic Button
+* Telephone Tracking
 
 Idea proposed by: Biswajit Nayak [fb.com/mitubiswa](http://fb.com/mitubiswa)
 
