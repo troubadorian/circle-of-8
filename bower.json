@@ -1,0 +1,25 @@
+{
+  "name": "circle-of-8",
+  "version": "0.0.0",
+  "homepage": "https://github.com/deveedutta/circle-of-8",
+  "authors": [
+    "Deveedutta Maharana <deveedutta@gmail.com>"
+  ],
+  "main": "index.html",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.1.1",
+    "jquery": "~2.1.0"
+  },
+  "license": "WTFPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "circle-of-8",
+  "version": "0.0.0",
+  "description": "circle of eight - connects 7 of your closest ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deveedutta/circle-of-8.git"
+  },
+  "keywords": [
+    "blood",
+    "donation",
+    "emergency"
+  ],
+  "author": "deveedutta@gmail.com",
+  "license": "MIT, WTFPL",
+  "bugs": {
+    "url": "https://github.com/deveedutta/circle-of-8/issues"
+  },
+  "homepage": "https://github.com/deveedutta/circle-of-8"
+}
