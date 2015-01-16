@@ -1,1 +1,3 @@
 exclude/*
+/nginx-server
+nginx-server/*
